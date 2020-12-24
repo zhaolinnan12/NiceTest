@@ -1,0 +1,52 @@
+{
+    "success": true,
+    "result": {
+        "id": 77,
+        "templateType": 8,
+        "templateTypeName": "打版",
+        "title": "打版回归测试",
+        "content": "${BD}回归测试发给各位",
+        "sendTypeList": [
+            "system"
+        ],
+        "status": 0,
+        "gmtModified": "2020-12-11 16:10:53",
+        "ruleList": [
+            {
+                "id": 81,
+                "messageTemplateId": 77,
+                "receiverTypeList": [
+                    8
+                ],
+                "conditionList": [
+                    {
+                        "id": 105,
+                        "templateRuleId": 81,
+                        "conditionType": 44,
+                        "compareType": null,
+                        "conditionValue": null
+                    }
+                ]
+            }
+        ],
+        "logList": [
+            {
+                "id": 51093,
+                "moduleId": "24",
+                "userId": 11924,
+                "bizId": "77",
+                "optType": "MESSAGE_TEMPLATE_ADD",
+                "optData": null,
+                "data": null,
+                "appName": "mall_web",
+                "gmtCreate": "2020-12-11 16:10:53",
+                "gmtModified": "2020-12-11 16:10:53",
+                "userName": "赵林楠",
+                "content": "新增通知模板"
+            }
+        ]
+    },
+    "errorCode": null,
+    "errorMessage": null,
+    "isRetry": false
+}

@@ -1,0 +1,249 @@
+{
+  "uid" : "2256b3350fcf0695",
+  "name" : "删除通知模板",
+  "fullName" : "test.test_api.TestApi#test_main",
+  "historyId" : "ff4c616539ac64f4683d87b3cf78fc56",
+  "time" : {
+    "start" : 1607674257474,
+    "stop" : 1607674257606,
+    "duration" : 132
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "请求地址",
+      "time" : {
+        "start" : 1607674257474,
+        "stop" : 1607674257474,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b592831b08e29614",
+        "name" : "请求地址",
+        "source" : "b592831b08e29614.txt",
+        "type" : "text/plain",
+        "size" : 78
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "请求头",
+      "time" : {
+        "start" : 1607674257474,
+        "stop" : 1607674257475,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7608deaeb1b0883e",
+        "name" : "请求头",
+        "source" : "7608deaeb1b0883e.txt",
+        "type" : "text/plain",
+        "size" : 319
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "请求参数",
+      "time" : {
+        "start" : 1607674257475,
+        "stop" : 1607674257475,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "db4bc9e34dd9e747",
+        "name" : "请求参数",
+        "source" : "db4bc9e34dd9e747.txt",
+        "type" : "text/plain",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "上传文件",
+      "time" : {
+        "start" : 1607674257475,
+        "stop" : 1607674257475,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ed9b69995dc1a7b4",
+        "name" : "上传文件",
+        "source" : "ed9b69995dc1a7b4.txt",
+        "type" : "text/plain",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "响应耗时(s)",
+      "time" : {
+        "start" : 1607674257602,
+        "stop" : 1607674257603,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b6ae26b70c289cda",
+        "name" : "响应耗时(s)",
+        "source" : "b6ae26b70c289cda.txt",
+        "type" : "text/plain",
+        "size" : 8
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "响应内容",
+      "time" : {
+        "start" : 1607674257603,
+        "stop" : 1607674257603,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f073cd8d733b93c3",
+        "name" : "响应内容",
+        "source" : "f073cd8d733b93c3.txt",
+        "type" : "text/plain",
+        "size" : 114
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "存储实际响应",
+      "time" : {
+        "start" : 1607674257604,
+        "stop" : 1607674257605,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bd7a2e88332f046f",
+        "name" : "存储实际响应",
+        "source" : "bd7a2e88332f046f.txt",
+        "type" : "text/plain",
+        "size" : 13936
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "第1个断言",
+      "time" : {
+        "start" : 1607674257606,
+        "stop" : 1607674257606,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a42925f86d54b559",
+        "name" : "第1个断言",
+        "source" : "a42925f86d54b559.txt",
+        "type" : "text/plain",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "7a387f08f3364030",
+      "name" : "stdout",
+      "source" : "7a387f08f3364030.txt",
+      "type" : "text/plain",
+      "size" : 94
+    }, {
+      "uid" : "e366d7756730a1fa",
+      "name" : "stderr",
+      "source" : "e366d7756730a1fa.txt",
+      "type" : "text/plain",
+      "size" : 1116
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 8,
+    "attachmentsCount" : 10,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test"
+  }, {
+    "name" : "suite",
+    "value" : "test_api"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestApi"
+  }, {
+    "name" : "host",
+    "value" : "zhaolndeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "33643-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test.test_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "['cast_007', '删除通知模板', 'ktask/data/mall/ktask/message-template/delete/&$.case_005.result&', '读', 'delete', 'params', '', '', '{\"$.success\":true}']"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2256b3350fcf0695.json",
+  "parameterValues" : [ "['cast_007', '删除通知模板', 'ktask/data/mall/ktask/message-template/delete/&$.case_005.result&', '读', 'delete', 'params', '', '', '{\"$.success\":true}']" ]
+}

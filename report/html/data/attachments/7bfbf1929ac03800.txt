@@ -1,0 +1,81 @@
+{
+    "isRetry": false,
+    "result": {
+        "companyList": [
+            {
+                "blocId": 1,
+                "companyName": "杭州如涵电子商务有限公司4",
+                "id": 1
+            },
+            {
+                "blocId": 1,
+                "companyName": "赵林楠",
+                "id": 283
+            },
+            {
+                "blocId": 1,
+                "companyName": "红",
+                "id": 548
+            },
+            {
+                "blocId": 1,
+                "companyName": "胡子公司",
+                "id": 560
+            },
+            {
+                "blocId": 1,
+                "companyName": "如涵2020",
+                "id": 564
+            },
+            {
+                "blocId": 1,
+                "companyName": "嫣儿公司",
+                "id": 817
+            },
+            {
+                "blocId": 1,
+                "companyName": "adfs公司",
+                "id": 959
+            },
+            {
+                "blocId": 1,
+                "companyName": "樱花绾绾公司",
+                "id": 962
+            },
+            {
+                "blocId": 1,
+                "companyName": "7410红人公司",
+                "id": 984
+            },
+            {
+                "blocId": 1,
+                "companyName": "张默默公司",
+                "id": 1007
+            },
+            {
+                "blocId": 1,
+                "companyName": "发电房公司",
+                "id": 1008
+            },
+            {
+                "blocId": 1,
+                "companyName": "super小白公司",
+                "id": 1016
+            }
+        ],
+        "email": "zhaoln@ruhnn.com",
+        "expireTime": 3600,
+        "headImgUrl": "https://ruhnn-common.oss-cn-hangzhou.aliyuncs.com/tmp_bd60ae8d7ad110df4203b091b92785ab_cadc4dc150e5465eabda8124683d5f44.jpg",
+        "id": 11924,
+        "mobile": "18557535933",
+        "nick": "Frozen📣",
+        "notified": false,
+        "pwExpireDay": -1,
+        "realName": "赵林楠",
+        "sourceId": 4073,
+        "subjectId": 1,
+        "token": "795ff6bef37844c09ea3327eeb8c6deb",
+        "userName": "赵林楠"
+    },
+    "success": true
+}

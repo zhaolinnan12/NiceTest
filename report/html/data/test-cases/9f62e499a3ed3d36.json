@@ -1,0 +1,249 @@
+{
+  "uid" : "9f62e499a3ed3d36",
+  "name" : "查询刘戴素红人排期列表",
+  "fullName" : "test.test_api.TestApi#test_main",
+  "historyId" : "e22e29a3736852b3693b6ddc60bd9936",
+  "time" : {
+    "start" : 1607674256882,
+    "stop" : 1607674256953,
+    "duration" : 71
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "请求地址",
+      "time" : {
+        "start" : 1607674256882,
+        "stop" : 1607674256883,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a98625abe8b176b8",
+        "name" : "请求地址",
+        "source" : "a98625abe8b176b8.txt",
+        "type" : "text/plain",
+        "size" : 75
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "请求头",
+      "time" : {
+        "start" : 1607674256883,
+        "stop" : 1607674256883,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1adc2146cb392bf3",
+        "name" : "请求头",
+        "source" : "1adc2146cb392bf3.txt",
+        "type" : "text/plain",
+        "size" : 319
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "请求参数",
+      "time" : {
+        "start" : 1607674256883,
+        "stop" : 1607674256883,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3674130ed08bb29e",
+        "name" : "请求参数",
+        "source" : "3674130ed08bb29e.txt",
+        "type" : "text/plain",
+        "size" : 78
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "上传文件",
+      "time" : {
+        "start" : 1607674256883,
+        "stop" : 1607674256884,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b8ba47152183fc9e",
+        "name" : "上传文件",
+        "source" : "b8ba47152183fc9e.txt",
+        "type" : "text/plain",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "响应耗时(s)",
+      "time" : {
+        "start" : 1607674256949,
+        "stop" : 1607674256949,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6c1fd64588355930",
+        "name" : "响应耗时(s)",
+        "source" : "6c1fd64588355930.txt",
+        "type" : "text/plain",
+        "size" : 8
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "响应内容",
+      "time" : {
+        "start" : 1607674256949,
+        "stop" : 1607674256950,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "873ed029f83fc5a3",
+        "name" : "响应内容",
+        "source" : "873ed029f83fc5a3.txt",
+        "type" : "text/plain",
+        "size" : 1308
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "存储实际响应",
+      "time" : {
+        "start" : 1607674256950,
+        "stop" : 1607674256952,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "35c86346f4c4b30b",
+        "name" : "存储实际响应",
+        "source" : "35c86346f4c4b30b.txt",
+        "type" : "text/plain",
+        "size" : 11761
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "第1个断言",
+      "time" : {
+        "start" : 1607674256952,
+        "stop" : 1607674256953,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8916574221e2705b",
+        "name" : "第1个断言",
+        "source" : "8916574221e2705b.txt",
+        "type" : "text/plain",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "34fd89be31c880cb",
+      "name" : "stdout",
+      "source" : "34fd89be31c880cb.txt",
+      "type" : "text/plain",
+      "size" : 94
+    }, {
+      "uid" : "6cce272fad4b317c",
+      "name" : "stderr",
+      "source" : "6cce272fad4b317c.txt",
+      "type" : "text/plain",
+      "size" : 2231
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 8,
+    "attachmentsCount" : 10,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test"
+  }, {
+    "name" : "suite",
+    "value" : "test_api"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestApi"
+  }, {
+    "name" : "host",
+    "value" : "zhaolndeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "33643-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test.test_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "['case_003', '查询刘戴素红人排期列表', 'ktask/data/mall/ktask/kol/schedule-month/list', '读', 'post', 'json', '', '{\"month\":\"2020-11\",\"kolSubjectId\":560,\"isQueryDetail\":true}', '{\"$.success\":true}']"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9f62e499a3ed3d36.json",
+  "parameterValues" : [ "['case_003', '查询刘戴素红人排期列表', 'ktask/data/mall/ktask/kol/schedule-month/list', '读', 'post', 'json', '', '{\"month\":\"2020-11\",\"kolSubjectId\":560,\"isQueryDetail\":true}', '{\"$.success\":true}']" ]
+}

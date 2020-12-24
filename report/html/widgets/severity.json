@@ -1,0 +1,71 @@
+[ {
+  "uid" : "3dc1b2551232f542",
+  "name" : "创建通知模板",
+  "time" : {
+    "start" : 1607674257233,
+    "stop" : 1607674257380,
+    "duration" : 147
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "879049ac3713fad2",
+  "name" : "post请求实现登录",
+  "time" : {
+    "start" : 1607674254492,
+    "stop" : 1607674254703,
+    "duration" : 211
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1686ffb349d939c3",
+  "name" : "查询红人列表",
+  "time" : {
+    "start" : 1607674254718,
+    "stop" : 1607674256876,
+    "duration" : 2158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f62e499a3ed3d36",
+  "name" : "查询刘戴素红人排期列表",
+  "time" : {
+    "start" : 1607674256882,
+    "stop" : 1607674256953,
+    "duration" : 71
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2256b3350fcf0695",
+  "name" : "删除通知模板",
+  "time" : {
+    "start" : 1607674257474,
+    "stop" : 1607674257606,
+    "duration" : 132
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "710d27e01062f271",
+  "name" : "爬虫商品接口",
+  "time" : {
+    "start" : 1607674256959,
+    "stop" : 1607674257113,
+    "duration" : 154
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "e15a273619a13d19",
+  "name" : "查看通知模板",
+  "time" : {
+    "start" : 1607674257386,
+    "stop" : 1607674257468,
+    "duration" : 82
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

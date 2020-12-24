@@ -1,0 +1,6 @@
+{
+    "systemType": "1",
+    "userName": "18557535933",
+    "password": "Ruhnn1818",
+    "way": "1"
+}

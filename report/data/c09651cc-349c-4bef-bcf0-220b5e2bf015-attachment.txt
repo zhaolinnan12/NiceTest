@@ -1,0 +1,20 @@
+{
+    "templateType": 8,
+    "title": "打版回归测试",
+    "content": "${BD}回归测试发给各位",
+    "ruleList": [
+        {
+            "conditionList": [
+                {
+                    "conditionType": 44
+                }
+            ],
+            "receiverTypeList": [
+                "8"
+            ]
+        }
+    ],
+    "sendTypeList": [
+        "system"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "success": true,
+    "result": true,
+    "errorCode": null,
+    "errorMessage": null,
+    "isRetry": false
+}

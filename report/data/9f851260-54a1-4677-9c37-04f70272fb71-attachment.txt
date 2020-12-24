@@ -1,0 +1,7 @@
+{
+    "success": false,
+    "result": null,
+    "errorCode": "P17",
+    "errorMessage": "商品不存在",
+    "isRetry": false
+}

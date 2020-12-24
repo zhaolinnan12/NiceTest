@@ -1,0 +1,249 @@
+{
+  "uid" : "1686ffb349d939c3",
+  "name" : "查询红人列表",
+  "fullName" : "test.test_api.TestApi#test_main",
+  "historyId" : "e37eee6749637e7e7e0c6b281657f72a",
+  "time" : {
+    "start" : 1607674254718,
+    "stop" : 1607674256876,
+    "duration" : 2158
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "请求地址",
+      "time" : {
+        "start" : 1607674254718,
+        "stop" : 1607674254719,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6357fed94e12045",
+        "name" : "请求地址",
+        "source" : "6357fed94e12045.txt",
+        "type" : "text/plain",
+        "size" : 69
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "请求头",
+      "time" : {
+        "start" : 1607674254719,
+        "stop" : 1607674254720,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9bf734bd2cdc01c3",
+        "name" : "请求头",
+        "source" : "9bf734bd2cdc01c3.txt",
+        "type" : "text/plain",
+        "size" : 319
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "请求参数",
+      "time" : {
+        "start" : 1607674254720,
+        "stop" : 1607674254720,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5716c18538bed9e9",
+        "name" : "请求参数",
+        "source" : "5716c18538bed9e9.txt",
+        "type" : "text/plain",
+        "size" : 65
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "上传文件",
+      "time" : {
+        "start" : 1607674254720,
+        "stop" : 1607674254721,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f5838df840dbf5c6",
+        "name" : "上传文件",
+        "source" : "f5838df840dbf5c6.txt",
+        "type" : "text/plain",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "响应耗时(s)",
+      "time" : {
+        "start" : 1607674256872,
+        "stop" : 1607674256872,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ab5a9c4ee3361edc",
+        "name" : "响应耗时(s)",
+        "source" : "ab5a9c4ee3361edc.txt",
+        "type" : "text/plain",
+        "size" : 8
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "响应内容",
+      "time" : {
+        "start" : 1607674256872,
+        "stop" : 1607674256873,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2e2abd85d1032963",
+        "name" : "响应内容",
+        "source" : "2e2abd85d1032963.txt",
+        "type" : "text/plain",
+        "size" : 6903
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "存储实际响应",
+      "time" : {
+        "start" : 1607674256874,
+        "stop" : 1607674256875,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "276ba38a92f71f6f",
+        "name" : "存储实际响应",
+        "source" : "276ba38a92f71f6f.txt",
+        "type" : "text/plain",
+        "size" : 10271
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "第1个断言",
+      "time" : {
+        "start" : 1607674256876,
+        "stop" : 1607674256876,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8e2c39a7baf62e82",
+        "name" : "第1个断言",
+        "source" : "8e2c39a7baf62e82.txt",
+        "type" : "text/plain",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "3da5b0bea91581e3",
+      "name" : "stdout",
+      "source" : "3da5b0bea91581e3.txt",
+      "type" : "text/plain",
+      "size" : 94
+    }, {
+      "uid" : "b83d4c6e438fec38",
+      "name" : "stderr",
+      "source" : "b83d4c6e438fec38.txt",
+      "type" : "text/plain",
+      "size" : 8397
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 8,
+    "attachmentsCount" : 10,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test"
+  }, {
+    "name" : "suite",
+    "value" : "test_api"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestApi"
+  }, {
+    "name" : "host",
+    "value" : "zhaolndeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "33643-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test.test_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "['case_002', '查询红人列表', 'ktask/data/mall/ktask/basedata/kol/list', '读', 'get', 'params', '', '{\"name\":\"妞妞\",\"pageNo\":\"1\",\"pageSize\":\"10\"}', '{\"$.success\":true}']"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1686ffb349d939c3.json",
+  "parameterValues" : [ "['case_002', '查询红人列表', 'ktask/data/mall/ktask/basedata/kol/list', '读', 'get', 'params', '', '{\"name\":\"妞妞\",\"pageNo\":\"1\",\"pageSize\":\"10\"}', '{\"$.success\":true}']" ]
+}
