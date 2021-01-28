@@ -1,8 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"failed","Fri Dec 11 16:10:56 CST 2020","Fri Dec 11 16:10:57 CST 2020","154","test","test_api","TestApi","","","爬虫商品接口",""
-"passed","Fri Dec 11 16:10:57 CST 2020","Fri Dec 11 16:10:57 CST 2020","132","test","test_api","TestApi","","","删除通知模板",""
-"passed","Fri Dec 11 16:10:57 CST 2020","Fri Dec 11 16:10:57 CST 2020","147","test","test_api","TestApi","","","创建通知模板",""
-"passed","Fri Dec 11 16:10:54 CST 2020","Fri Dec 11 16:10:54 CST 2020","211","test","test_api","TestApi","","","post请求实现登录",""
-"passed","Fri Dec 11 16:10:57 CST 2020","Fri Dec 11 16:10:57 CST 2020","82","test","test_api","TestApi","","","查看通知模板",""
-"passed","Fri Dec 11 16:10:56 CST 2020","Fri Dec 11 16:10:56 CST 2020","71","test","test_api","TestApi","","","查询刘戴素红人排期列表",""
-"passed","Fri Dec 11 16:10:54 CST 2020","Fri Dec 11 16:10:56 CST 2020","2158","test","test_api","TestApi","","","查询红人列表",""

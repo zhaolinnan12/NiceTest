@@ -1,0 +1,16 @@
+*.classpath
+*.project
+/target
+*.settings
+target
+.idea
+*.iml
+.svn
+node_modules
+*.ipr
+*.iws
+.DS_Store
+/log
+logs
+rebel.xml
+/report

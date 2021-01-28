@@ -1,2 +1,0 @@
-服务端返回结果actual type : <class 'bool'>
-excel预期结果，v type : <class 'bool'>

@@ -1,9 +1,0 @@
-[32m2020-12-11 16:10:57.375[0m | [1mINFO    [0m | [36mapi.base_requests[0m:[36msend_api[0m:[36m72[0m - [1m
-请求地址:http://www.layercake.com.cn//ktask/data/mall/ktask/message-template/save
-请求方法:post
-请求头:{'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36', 'Content-Type': 'application/json', 'token': '795ff6bef37844c09ea3327eeb8c6deb'}
-请求参数:{'templateType': 8, 'title': '打版回归测试', 'content': '${BD}回归测试发给各位', 'ruleList': [{'conditionList': [{'conditionType': 44}], 'receiverTypeList': ['8']}], 'sendTypeList': ['system']}
-响应数据:{'success': True, 'result': 77, 'errorCode': None, 'errorMessage': None, 'isRetry': False}[0m
-[32m2020-12-11 16:10:57.376[0m | [1mINFO    [0m | [36mtools.data_process[0m:[36msave_response[0m:[36m18[0m - [1m添加key: case_005, 对应value: {'success': True, 'result': 77, 'errorCode': None, 'errorMessage': None, 'isRetry': False}[0m
-[32m2020-12-11 16:10:57.378[0m | [1mINFO    [0m | [36mtools.data_process[0m:[36massert_result[0m:[36m83[0m - [1m第1个断言,实际结果:True | 预期结果:True 
-断言结果 True[0m

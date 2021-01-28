@@ -1,26 +1,5 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "name" : "categories",
-  "children" : [ {
-    "name" : "Product defects",
-    "children" : [ {
-      "name" : "AssertionError",
-      "children" : [ {
-        "name" : "爬虫商品接口",
-        "uid" : "710d27e01062f271",
-        "parentUid" : "a0017ad855102fea08b8682d27fec4ca",
-        "status" : "failed",
-        "time" : {
-          "start" : 1607674256959,
-          "stop" : 1607674257113,
-          "duration" : 154
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "['case_004', '爬虫商品接口', 'ktask/data/mall/ktask/com/item/info?numIid=588076739264&isOrg=true', '读', 'get', 'params', '', '{\"numlid\":588076739264,\"isOrg\":\"true\"}', '{\"$.success\":true}']" ]
-      } ],
-      "uid" : "a0017ad855102fea08b8682d27fec4ca"
-    } ],
-    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
-  } ]
+  "children" : [ ]
 }
